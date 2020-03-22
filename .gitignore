@@ -1,3 +1,5 @@
 
-titles.tsv
-*.tsv
+title.ratings.tsv/data.tsv
+title.principals.tsv/data.tsv
+title.crew.tsv/data.tsv
+title.akas.tsv/data.tsv
